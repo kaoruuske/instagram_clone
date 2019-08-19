@@ -6,7 +6,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'instagram Clon',
+          'Instagram Clon',
           style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
         ),
       ),
